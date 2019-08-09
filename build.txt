@@ -1,0 +1,1 @@
+mv .buildozer/android/platform/build/dists/monsef_alahem/bin/DateConverter-1.0-debug.apk .
